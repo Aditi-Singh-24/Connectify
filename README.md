@@ -29,29 +29,29 @@ Connectify is a cutting-edge messaging service chat application that allows user
 
 
 
-*Chats Screen*
+# *Chats Screen*
 ![image](https://github.com/user-attachments/assets/ea4717c2-359e-409f-bb4c-d99a35893e7e)
 ![image](https://github.com/user-attachments/assets/0852532a-f89a-4411-81e7-d2d46e69a13a)
 
-*Search User And Initialize Chat*
+# *Search User And Initialize Chat*
 ![image](https://github.com/user-attachments/assets/1dab8dff-9640-4b1b-a770-0a2debb311b9)
 ![image](https://github.com/user-attachments/assets/7c3e1bfc-a42d-4d8f-a6a2-bcc18e44be9d)
 ![image](https://github.com/user-attachments/assets/a6b571d4-73e9-46e4-9b80-7c2db98b9622)
 ![image](https://github.com/user-attachments/assets/55b7cc36-d8e0-47da-b601-cd76352ae185)
 
 
-*Group Chat Screen*
+# *Group Chat Screen*
 ![image](https://github.com/user-attachments/assets/565b8567-db53-4317-888b-6570b62b7520)
 ![image](https://github.com/user-attachments/assets/0e319fdf-2eed-4f22-8b06-145ece556406)
 ![image](https://github.com/user-attachments/assets/3f810d5e-4ab2-4272-a829-79781a302199)
 
-*Real-Time Chat Screen*
+# *Real-Time Chat Screen*
 ![image](https://github.com/user-attachments/assets/44a5ced0-4c24-484a-bf74-7ab23598ad68)
 ![image](https://github.com/user-attachments/assets/272d0345-24c8-4629-99c3-d7dbd00439e3)
 ![image](https://github.com/user-attachments/assets/72a6ecb1-35e6-44ad-8445-c10e3c86eb44)
 
 
-*Notifications & Log out Screen*
+# *Notifications & Log out Screen*
 ![image](https://github.com/user-attachments/assets/46d0ec71-4e45-48cf-b2df-6b094ca55d3c)
 ![image](https://github.com/user-attachments/assets/469432f2-24f3-463a-8643-fba792fed8ba)
 
