@@ -3,9 +3,7 @@
 Connectify is a cutting-edge messaging service chat application that allows users to authenticate  designed to showcase secure, real-time communication with modern features like chat one-on-one, and create group chats. This project includes user authentication, one-on-one and group chats, real-time messaging. It's built with scalability, performance, and user experience in mind.
 
 ## My Introduction
-Name - **Aditi Singh**
-College - **Indian Institute of Technology (IIT) Mandi**
-Department - Electrical Engineering
+Name - **Aditi Singh**, College - **Indian Institute of Technology (IIT) Mandi**, Department - Electrical Engineering
 
 ## Table of Contents
 - [Features](#features)
