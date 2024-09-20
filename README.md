@@ -7,6 +7,7 @@ Connectify is a cutting-edge messaging service chat application that allows user
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Running the Application](#running-the-application)
+- [System Design](#system-design)
 
 
 ## Features
@@ -56,7 +57,7 @@ Connectify is a cutting-edge messaging service chat application that allows user
    ```bash
    npm install --legacy-peer-deps
 
-## List of Root Dependencies:
+  ## List of Root Dependencies:
 
     bcryptjs: ^2.4.3
     colors: ^1.4.0
@@ -70,12 +71,14 @@ Connectify is a cutting-edge messaging service chat application that allows user
     socket.io: ^4.7.5
     socket.io-client: ^4.7.5
 
+
+
 3. **Install Frontend Dependencies**:
    ```bash
    cd frontend
    npm install --legacy-peer-deps
 
- ## List of Frontend Dependencies:
+  ## List of Frontend Dependencies:
 
     @chakra-ui/icons: ^2.1.1
     @chakra-ui/react: ^2.8.2
@@ -97,7 +100,7 @@ Connectify is a cutting-edge messaging service chat application that allows user
     socket.io-client: ^4.7.5
     web-vitals: ^2.1.4
 
-    
+ 
 4. **Set Up Environment Variables**
    Create a .env file in the root directory of the project and add your personal environment variables:
       ```bash
@@ -116,3 +119,12 @@ Connectify is a cutting-edge messaging service chat application that allows user
       ```bash
       cd frontend
       npm start
+
+
+## System Design
+The Connectify messaging system is built using a scalable architecture to support high traffic, real-time messaging:
+- **Backend**: RESTful APIs using Express.js for handling authentication, message routing, and group management.
+- **Real-Time Messaging**: Socket.IO ensures real-time communication for both individual and group chats.
+- **Database**: MongoDB is used for its flexibility and scalability, storing users, messages, and chat information.
+- **Security**: JWT is used to manage secure authentication sessions. Sensitive information like passwords is hashed using bcrypt.
+- **Platforms**: VS Code, Postman, MondoDB.
