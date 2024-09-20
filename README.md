@@ -54,7 +54,7 @@ Connectify is a cutting-edge messaging service chat application that allows user
 ![image](https://github.com/user-attachments/assets/72a6ecb1-35e6-44ad-8445-c10e3c86eb44)
 
 
-*Single Chat Screen*
+*Notifications & Log out Screen*
 ![image](https://github.com/user-attachments/assets/46d0ec71-4e45-48cf-b2df-6b094ca55d3c)
 ![image](https://github.com/user-attachments/assets/469432f2-24f3-463a-8643-fba792fed8ba)
 
