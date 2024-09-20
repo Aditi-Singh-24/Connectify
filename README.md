@@ -1,6 +1,5 @@
-# Connectify
-
-Connectify is a chat application that allows users to authenticate, chat one-on-one, and create group chats. This README provides a step-by-step guide to running the project, installing dependencies, and using its features.
+# Connectify - Messaging Service Prototype
+Connectify is a cutting-edge messaging service chat application that allows users to authenticate  designed to showcase secure, real-time communication with modern features like chat one-on-one, and create group chats. This project includes user authentication, one-on-one and group chats, real-time messaging, and optional advanced features like AI-powered chatbots and video/audio calls. It's built with scalability, performance, and user experience in mind.
 
 ## Table of Contents
 - [Features](#features)
@@ -11,11 +10,12 @@ Connectify is a chat application that allows users to authenticate, chat one-on-
 
 
 ## Features
-- **User Authentication(signup/login)**: Secure sign-up and login process.
-- **My Chats**: View and manage all your chat conversations.
+- **User Authentication(signup/login)**: Secure sign-up and login using JWT for session management.
+- **Text Messaging**: Send and receive real-time text messages between users.
+- **Group Chat functionality**: Create and participate in group chats with multiple users.
+- **Real-Time Updates**:Messages are delivered and updated instantly using Socket.IO.
 - **Search User**: Quickly find users by name or other identifiers.
 - **Single Chat(One-on-one chat)**: Engage in private one-on-one chat sessions.
-- **Group Chat functionality**: Create and participate in group chats with multiple users.
 
 ## Screenshots
 
@@ -38,13 +38,13 @@ Connectify is a chat application that allows users to authenticate, chat one-on-
 *Group Chat Screen*
 
 ## Technologies Used
-- Node.js
-- Express.js
-- MongoDB
-- Socket.io
-- React.js
-- Chakra UI
+- **Backend**: Node.js, Express.js, MongoDB, Socket.IO
+- **Frontend**: React.js, Chakra UI for a responsive UI
+- **Real-Time Updates**: Socket.IO for real-time communication
+- **Dev Tools**: Nodemon for server management, JWT for authentication, Mongoose for MongoDB interaction
+- **Platforms**: VS Code, Postman, MondoDB.
 
+  
 ## Installation
 
 1. **Clone the Repository**
