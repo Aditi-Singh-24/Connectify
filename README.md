@@ -137,7 +137,7 @@ Connectify is a cutting-edge messaging service chat application that allows user
       ```bash
       cd frontend
       npm start
-
+Open Localhost on port 3000 in your browser and enjoy **CONNECTIFY**, Cheers!
 
 ## System Design
 The Connectify messaging system is built using a scalable architecture to support high traffic, real-time messaging:
