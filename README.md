@@ -1,4 +1,5 @@
 # Connectify - Messaging Service Prototype
+## Documentation
 Connectify is a cutting-edge messaging service chat application that allows users to authenticate  designed to showcase secure, real-time communication with modern features like chat one-on-one, and create group chats. This project includes user authentication, one-on-one and group chats, real-time messaging, and optional advanced features like AI-powered chatbots and video/audio calls. It's built with scalability, performance, and user experience in mind.
 
 ## Table of Contents
