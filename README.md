@@ -43,13 +43,10 @@ Connectify is a cutting-edge messaging service chat application that allows user
 *Group Chat Screen*
 ![image](https://github.com/user-attachments/assets/565b8567-db53-4317-888b-6570b62b7520)
 ![image](https://github.com/user-attachments/assets/0e319fdf-2eed-4f22-8b06-145ece556406)
-
-*My Chats Screen*
 ![image](https://github.com/user-attachments/assets/3f810d5e-4ab2-4272-a829-79781a302199)
+
+*Real-Time Chat Screen*
 ![image](https://github.com/user-attachments/assets/44a5ced0-4c24-484a-bf74-7ab23598ad68)
-
-
-*Search User Screen*
 ![image](https://github.com/user-attachments/assets/272d0345-24c8-4629-99c3-d7dbd00439e3)
 ![image](https://github.com/user-attachments/assets/72a6ecb1-35e6-44ad-8445-c10e3c86eb44)
 
